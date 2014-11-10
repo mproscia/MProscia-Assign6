@@ -7,3 +7,6 @@ Assignment 6: HTML + Javascript
 - attempted a second version with only one function : triangular function 
 
 Not sure if this was submitted the proper way, having trouble pushing onto git
+
+Assignment 6: HTML + Javascript Pt 2
+Successful with this assignment. 
